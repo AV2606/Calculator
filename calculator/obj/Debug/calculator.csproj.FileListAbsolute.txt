@@ -1,0 +1,20 @@
+C:\Users\Amit\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Amit\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Amit\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.Main.resources
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Amit\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.Main.resources
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Amit\Desktop\Finished projects\calculator\calculator\obj\Debug\calculator.pdb
